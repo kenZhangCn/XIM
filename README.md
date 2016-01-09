@@ -1,0 +1,2 @@
+# XIM
+使用融云IMKit和LeanCloud做数据储存制作的IM框架 运行前请先使用cocoapods安装第三方库
